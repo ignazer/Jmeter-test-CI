@@ -1,0 +1,19 @@
+# Archivos de logs y resultados de JMeter
+jmeter.log
+resultados.jtl
+jmeter/resultados/
+
+# Archivos de configuración y dependencias de proyecto
+package-lock.json 
+node_modules/ 
+
+# Archivos específicos del IDE (VS Code en este caso)
+.vscode/
+
+# Archivos generados por sistemas operativos
+.DS_Store 
+Thumbs.db 
+
+# Archivos temporales o de caché
+*.log
+*.tmp
